@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SkypeLib</name>
+    </assembly>
+    <members>
+        <member name="T:SkypeLib.SkypeHelper">
+            <summary> 
+            SkypeHelper class is used to interact with Skype
+            </summary> 
+        </member>
+        <member name="M:SkypeLib.SkypeHelper.#ctor">
+            <summary> 
+            SkypeHelper class is used to interact with Skype
+            Allow access in skype to operate.
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:SkypeLib.SkypeHelper.GetAllContact" -->
+        <member name="M:SkypeLib.SkypeHelper.GetOnlineContact">
+            <summary> 
+            Get a list of Online Contact UserName
+            </summary>
+        </member>
+        <member name="M:SkypeLib.SkypeHelper.SendMessageToTheSpecificContact(System.String,System.String)">
+            <summary> 
+            Send message to a specific person
+            </summary>
+        </member>
+        <member name="M:SkypeLib.SkypeHelper.SendGenericMessage(System.String)">
+            <summary> 
+            Send message to all contacts
+            </summary>
+        </member>
+        <member name="M:SkypeLib.SkypeHelper.SendGenericMessage(System.Collections.Generic.List{System.String},System.String)">
+            <summary> 
+            Send message according to specific list
+            </summary>
+        </member>
+        <member name="M:SkypeLib.SkypeHelper.SendMessageToGroup(System.String)">
+            <summary> 
+            Send group message
+            </summary>
+        </member>
+        <member name="M:SkypeLib.SkypeHelper.SendSMS(System.String,System.String)">
+            <summary> 
+            Send SMS to mobile number
+            </summary>
+        </member>
+        <member name="M:SkypeLib.SkypeHelper.SendNotification">
+            <summary> 
+            Send IM and SMS based on Message.xml file
+            </summary>
+        </member>
+        <member name="M:SkypeLib.SkypeHelper.MakeACall(System.String)">
+            <summary> 
+            Make a call to specific contact
+            </summary>
+        </member>
+        <member name="M:SkypeLib.SkypeHelper.MakeGroupCall(System.String)">
+            <summary> 
+            Make group call
+            </summary>
+        </member>
+    </members>
+</doc>

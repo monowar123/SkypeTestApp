@@ -1,0 +1,15 @@
+F:\Practice\SkypeTestApp\SkypeLib\bin\Debug\SkypeLib.dll
+F:\Practice\SkypeTestApp\SkypeLib\bin\Debug\SkypeLib.pdb
+F:\Practice\SkypeTestApp\SkypeLib\obj\Debug\Interop.SKYPE4COMLib.dll
+F:\Practice\SkypeTestApp\SkypeLib\obj\Debug\SkypeLib.csproj.ResolveComReference.cache
+F:\Practice\SkypeTestApp\SkypeLib\obj\Debug\SkypeLib.dll
+F:\Practice\SkypeTestApp\SkypeLib\obj\Debug\SkypeLib.pdb
+F:\Practice\SkypeTestApp\SkypeLib\bin\Debug\SkypeLib.XML
+F:\My_Task\SkypeTestApp\SkypeLib\bin\Debug\SkypeLib.XML
+F:\My_Task\SkypeTestApp\SkypeLib\bin\Debug\SkypeLib.dll
+F:\My_Task\SkypeTestApp\SkypeLib\bin\Debug\SkypeLib.pdb
+F:\My_Task\SkypeTestApp\SkypeLib\obj\Debug\Interop.SKYPE4COMLib.dll
+F:\My_Task\SkypeTestApp\SkypeLib\obj\Debug\SkypeLib.csproj.ResolveComReference.cache
+F:\My_Task\SkypeTestApp\SkypeLib\obj\Debug\SkypeLib.dll
+F:\My_Task\SkypeTestApp\SkypeLib\obj\Debug\SkypeLib.pdb
+F:\My_Task\SkypeTestApp\SkypeLib\obj\Debug\SkypeLib.csprojResolveAssemblyReference.cache

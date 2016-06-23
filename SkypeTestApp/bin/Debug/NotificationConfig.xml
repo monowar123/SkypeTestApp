@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Messages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IM enable="true">
+	<person id="masud0512" message="This is test message"></person>
+	<person id="jahid.khan2011" message="This is test message"></person>
+	<person id="razib365" message="This is test message"></person>
+  </IM> 
+  <SMS enable="true">
+	<person Num="+8801558651205" message="This is test message"></person>
+	<person Num="+8801558651205" message="This is test message"></person>
+	<person Num="+8801558651205" message="This is test message"></person>
+  </SMS>
+  <Call enable="true">
+	<person id="masud0512"></person>
+	<person id=""></person>
+	<person id=""></person>
+  </Call> 
+</Messages>
